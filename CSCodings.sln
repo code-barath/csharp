@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001HelloWorld", "0001Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011Conditional", "0011Conditional\0011Conditional.csproj", "{C8D19929-597D-480B-8C0B-E823289529F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0012Voting", "0012Voting\0012Voting.csproj", "{1BEA2557-7E5B-4D2B-9E1C-5926FD6D31E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8D19929-597D-480B-8C0B-E823289529F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D19929-597D-480B-8C0B-E823289529F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D19929-597D-480B-8C0B-E823289529F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEA2557-7E5B-4D2B-9E1C-5926FD6D31E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEA2557-7E5B-4D2B-9E1C-5926FD6D31E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEA2557-7E5B-4D2B-9E1C-5926FD6D31E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEA2557-7E5B-4D2B-9E1C-5926FD6D31E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
