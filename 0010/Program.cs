@@ -6,15 +6,15 @@ namespace _0010
     {
         static void Main(string[] args)
         {
-            int length;
+            int side;
             int area;
 
-            Console.WriteLine("Enter a value for the length");
-            length = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a value for side");
+            side = Convert.ToInt32(Console.ReadLine());
 
-            area = (length * length);
+            area = (side * side);
 
-            Console.WriteLine("THE value of the square is " + area);
+            Console.WriteLine("The area of the square is " + area);
         }
     }
 }
